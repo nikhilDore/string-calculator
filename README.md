@@ -1,3 +1,3 @@
 # string-calculator
 
-npm test -- to run the application
+npm test -- to run the test cases
