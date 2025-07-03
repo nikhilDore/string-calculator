@@ -1,0 +1,13 @@
+{
+    "name": "string-calculator",
+    "version": "1.0.0",
+    "description": "string calculator with custom delimiters",
+    "main": "stringCalculator.js",
+    "type": "modules",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "jest": "^30.0.4"
+    }
+}
